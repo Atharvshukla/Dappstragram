@@ -5,3 +5,8 @@ Dappstragram is a blockchain based Instagram like  Decentralised Application , w
 2 -  Truffle 
 3 -  Ganache 
 4 -  MetaMask Extension 
+#Run
+In order to run this project you have to make sure you have all dependecies or go into terminal cd to project and write "npm install" after that once Test the contracts by writing "truffle test" and once all goes good just Deploy the Smart Contracts to the blockchain Using truffle framework by writing "truffle migrate --reset" and once the smart contract is deployed just Run the Server by wrinting "npm run start" and DAPPSTRAGRAM WILL start Running on "http://localhost:3000/" make sure you have Ganache working while this steps .
+
+ATHARV SHUKLA 
+https://www.linkedin.com/in/atharv-shukla-634419171/
